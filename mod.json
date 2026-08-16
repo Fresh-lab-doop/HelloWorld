@@ -1,0 +1,16 @@
+{
+    "geode": "4.0.0",
+    "gd": {
+        "win": "2.2074",
+        "android": "2.2074",
+        "mac": "2.2074",
+        "ios": "2.2074"
+    },
+    "version": "v1.0.0",
+    "id": "com.yourname.helloworld",
+    "name": "Hello World",
+    "developer": "YourName",
+    "description": "Приклад мода: показує плашку Hello World! при вході в головне меню",
+    "links": {},
+    "resources": {}
+}
